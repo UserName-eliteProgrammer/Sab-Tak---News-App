@@ -1,7 +1,7 @@
 console.log("Included");
 const apiKey = "69487909963e44329f45de2ee1dfe8c0";
 
-let source = "the-times-of-india";
+let source = "bbc-news";
 
 function sendRequest() {
   let requestObj = new XMLHttpRequest();
